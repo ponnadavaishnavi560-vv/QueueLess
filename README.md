@@ -1,2 +1,2 @@
 # QueueLess
-Smart Queue and Wating Time Managment System
+Smart Queue and Waiting Time Management System
